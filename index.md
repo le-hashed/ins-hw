@@ -1,4 +1,14 @@
-# HSC - 23 Homeworks: 
+# HSC - 23
+
+## Schedule:
+
+| Day | @ Time    |
+|-----|-----------|
+| Sun | @ 4:00PM  |
+| Tue | @ 4:00pm  |
+| Thu | @ 4:00PM  |
+
+## Homeworks: 
 
 #### 27:09:2022
 
