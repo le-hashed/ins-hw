@@ -1,5 +1,7 @@
 # HSC - 23
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=le-hashed.ins-hw&left_text=visits)
+
 ## Schedule:
 
 | Days | Subjects | @ Time    |
