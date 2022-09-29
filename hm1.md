@@ -1,7 +1,9 @@
 # Higher Maths
 
-| [Home](https://le-hashed.github.io/ins-hw/) |
-[Back](https://le-hashed.github.io/ins-hw/types.md) |
+| [Home](https://le-hashed.github.io/ins-hw/) | [Back](https://le-hashed.github.io/ins-hw/types) |
+|-------|-------|
+
+----
 
 ## Ch 3 : Straight Lines
 
@@ -20,3 +22,9 @@
 * 6 -> Line *divided by Axes*
 
 * 7 -> *4th vertex* of Parallelogram derivatives.
+
+----
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=le-hashed.ins-hw&left_text=visits)
+
