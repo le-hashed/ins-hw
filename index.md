@@ -2,11 +2,8 @@
 
 ## Navigation
 
-1. [Home](https://le-hashed.github.io/ins-hw/)
-
-1. [Homeworks](https://le-hashed.github.io/ins-hw/hw.md)
-
-1. [Types](https://le-hashed.github.io/ins-hw/types.md)
+| [Home](https://le-hashed.github.io/ins-hw/) | [Homeworks](https://le-hashed.github.io/ins-hw/hw) | [Types](https://le-hashed.github.io/ins-hw/types) |
+|-----|-----|-----|
 
 ## Schedule:
 
