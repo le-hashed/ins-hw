@@ -1,5 +1,10 @@
 # Homeworks: 
 
+| [Home](https://le-hashed.github.io/ins-hw/) |
+[Back](https://le-hashed.github.io/ins-hw/) |
+
+----
+
 #### 29:09:2022
 **HM - II:** 
 *STRAIGHT LINE* - 3B - Type-II (6), Type-III (7).
