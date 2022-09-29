@@ -1,16 +1,18 @@
 # HSC - 23
 
+## Navigation
+
+1. [Home]()
+
+1. [Homeworks](/hw.md)
+
+1. [Types](/types.md)
+
 ## Schedule:
 
 | Days | Subjects | @ Time    |
 |------|----------|-----------|
 | Sun, Tue, Thu | Phy & HM | @ 4:00PM  |
-
-## Homeworks: 
-
-#### 27:09:2022
-**HM - II:** 
-*STRAIGHT LINE* - 3B - Type-II (3,4); Sheet - 20a, 21a, 24c, 34a, 41b, 46b.
 
 ----
 
