@@ -1,7 +1,7 @@
 # Homeworks: 
 
-| [Home](https://le-hashed.github.io/ins-hw/) |
-[Back](https://le-hashed.github.io/ins-hw/) |
+| [Home](https://le-hashed.github.io/ins-hw/) | [Back](https://le-hashed.github.io/ins-hw/) |
+|-------|-------|
 
 ----
 
