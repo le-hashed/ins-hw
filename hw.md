@@ -1,7 +1,13 @@
 # Homeworks: 
 
 | [Home](https://le-hashed.github.io/ins-hw/) | [Back](https://le-hashed.github.io/ins-hw/) |
-|-------|-------|
+|----------|----------|
+
+----
+
+#### 01:10:2022
+**HM - II:** 
+*STRAIGHT LINE* - 3E - Type-IV (6), Type-V (7, 8).
 
 ----
 
