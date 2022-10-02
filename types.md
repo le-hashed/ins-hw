@@ -7,6 +7,8 @@
 
 ## Subjects
 
+* [Physics - II](https://le-hashed.github.io/ins-hw/ph2)
+
 * [Higher Mathematics - I](https://le-hashed.github.io/ins-hw/hm1)
 
 ----
