@@ -6,19 +6,19 @@
 ----
 
 #### 01:10:2022
-**HM - II:** 
+**HM - I:** 
 *STRAIGHT LINE* - 3E - Type-IV (6), Type-V (7, 8).
 
 ----
 
 #### 29:09:2022
-**HM - II:** 
+**HM - I:** 
 *STRAIGHT LINE* - 3B - Type-II (6), Type-III (7).
 
 ----
 
 #### 27:09:2022
-**HM - II:** 
+**HM - I:** 
 *STRAIGHT LINE* - 3B - Type-II (3,4); Sheet - 20a, 21a, 24c, 34a, 41b, 46b.
 
 ----
